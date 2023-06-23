@@ -1,0 +1,55 @@
+   71  mkdir Entrega1/ Entrega2/ Entrega3/ Entrega4/ Entrega5
+   72  mkdir Git-Github/
+   73  cd Entrega1
+   74  mv Readme.MD
+   75  git add Readme.MD
+   76  git config user.name "marisset"
+   77  git init
+   78  cd
+   79  git restore
+   80  cd /d/DOCUMENTS/CTD Digital House/CAMADA 3/INTRO A LA INFORMÁTICA/Mochila Entregas    
+   81  cd /d
+   82  cd /documents
+   83  cd /DOCUMENTS
+   84  cd /DOCUMENTS/
+   85  cd
+   86  cd /D
+   87  cd /DOCUMENTS
+   88  cd /d/DOCUMENTS/
+   89  cd /d/DOCUMENTS/CTD Digital House/CAMADA 3/INTRO A LA INFORMÁTICA/Mochila Entregas    
+   90  cd /d/DOCUMENTS/CTD Digital House/
+   91  cd /d/DOCUMENTS/"CTD Digital House"/"CAMADA 3"/"INTRO A LA INFORMÁTICA"/"Mochila Entregas"
+   92  git init
+   93  cd /Entrega1
+   94  mv Readme.MD
+   95  cd /Entrega1
+   96  cd Entrega1
+   97  touch Readme.MD
+   98  cd ..
+   99  cd Entrega2
+  100  touch Readme.MD
+  101  cd ..
+  102  cd Entrega3
+  103  touch Readme.MD
+  104  cd ..
+  105  cd Entrega4
+  106  touch Readme.MD
+  107  cd ..
+  108  cd Entreg5
+  109  cd Entrega5
+  110  touch Readme.MD
+  111  cd ..
+  112  cd Git-Github
+  113  touch Readme.MD
+  114  git add README.md
+  115  cd ..
+  116  cd Entrega1
+  117  git add README.md
+  118  cd ..
+  119  cd ..
+  120  cd mochila entregas
+  121  cd "mochila entregas"
+  122  cd ..
+  123  cd "Mochila Entregas"
+  124  cd Git-Github
+  125  cd ..
